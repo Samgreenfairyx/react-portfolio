@@ -34,7 +34,6 @@ Clone the repository:
 
 Copy code
 git clone https://github.com/Samgreenfairyx/react-portfolio.git
-Navigate to the project directory:
 
 ##bash
 
