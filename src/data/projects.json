@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project 1 - Leashlink",
+    "imageSrc": "projects/leashlink.png",
+    "description": "This is a project made as a group to link people who have dogs to meet up and plan activities together",
+    "skills": ["HTML, CSS, Third Party API's, Javascript"],
+    "demo": "https://jean-003.github.io/LeashLink/",
+    "source": "https://github.com/Jean-003/LeashLink"
+  },
+  {
+    "title": "Project 2 - Workday Scheduler",
+    "imageSrc": "projects/workday.JPG",
+    "description": "This is a project used to learn how to utilise local storage",
+    "skills": ["Javascript, HTML, CSS"],
+    "demo": "https://samgreenfairyx.github.io/WorkdayScheduler/",
+    "source": "https://github.com/Samgreenfairyx/WorkdayScheduler"
+  },
+  {
+    "title": "Project 3 - Coding Quiz",
+    "imageSrc": "projects/coding.JPG",
+    "description": "This was an early project when first learning to use Javascript",
+    "skills": ["HTML, CSS, JavaScript"],
+    "demo": "https://samgreenfairyx.github.io/CodingQuiz/",
+    "source": "https://github.com/Samgreenfairyx/CodingQuiz"
+  }
+]
