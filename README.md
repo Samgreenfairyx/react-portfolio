@@ -1,8 +1,56 @@
-# React + Vite
+##React Portfolio
+This repository contains a completed React-based portfolio website that fulfills the requirements outlined below. The website serves as a showcase of my skills, projects, and professional experience in a polished and professional manner.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Features
+Mobile-first design
+Custom color palette
+Font sizing optimized for readability
+Reusable components for project display and contact form
+LinkedIn and GitHub profile integration
 
-Currently, two official plugins are available:
+##Name
+Links to:
+GitHub Profile
+LinkedIn Page
+Email Address
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##App
+Home
+About
+Contact
+Hero
+Navbar
+Projects
+
+##Getting Started
+Clone the repository:
+
+##bash
+Copy code
+git clone https://github.com/Samgreenfairyx/react-portfolio.git
+Navigate to the project directory:
+
+##bash
+Copy code
+cd react-portfolio
+Install dependencies:
+
+##bash
+Copy code
+npm install
+Start the development server:
+
+##bash
+Copy code
+npm run dev
+Open your browser and navigate to the provided localhost URL to view your completed portfolio website.
+
+##Feedback and Support
+If you encounter any issues or have any questions, please feel free to reach out for assistance. Contributions and suggestions for improvements are also welcome!
+
+##Screenshots
+![image](https://github.com/Samgreenfairyx/react-portfolio/assets/150940744/b9baf416-99fc-461f-b917-4ff8a03e1d84)
+
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
